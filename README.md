@@ -5,5 +5,5 @@ This repository contains a Jupyter notebook analyzes survey data on consumer per
 Key insights:
 - Demographic breakdowns (country, education, income).
 * Purchase behaviors and barriers/drivers for sustainable products.
-+ Categorization of perceptions (e.g., environmentally friendly, quality).
-+ Statistical associations (e.g., age and education influence perceptions).
+- Categorization of perceptions (e.g., environmentally friendly, quality).
+* Statistical associations (e.g., age and education influence perceptions).
